@@ -1,0 +1,1 @@
+This package is for mass deployment of Shiny R packages to Rstuidio connect
