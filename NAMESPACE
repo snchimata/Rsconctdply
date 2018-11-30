@@ -1,0 +1,2 @@
+exportPattern(rsconctdply)
+importFrom("utils", "install.packages")

@@ -1,0 +1,16 @@
+Package: Rsconctdply
+Type: Package
+Title: Deploys Multiple Shiny Apps using Json Config File
+Version: 0.1.2
+Author: schimata
+Maintainer: schimata <schimata@yotabitesllc.com>
+Depends:
+    R (>= 3.0.1)
+Imports:
+    rjson,
+    rsconnect,
+    dplyr
+Description: Provides a tool for mass deployment of shiny apps to RStudio Connect or Shiny Server. Multiple user accounts and servers can be configured for deployment.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
