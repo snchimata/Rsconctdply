@@ -2,25 +2,15 @@
 # different locations like Rstudio connect or shiny apps server
 # http://docs.rstudio.com/connect/admin/appendix-rsconnect.html
 
-<<<<<<< HEAD
 #' @title Deploys Multiple Shiny Apps using Configuration File
 #'
 #' @description Provides a tool for mass deployment of shiny apps to 'RStudio Connect' or 'Shiny Server'. Multiple user accounts and servers can be configured for deployment.
-=======
-#' @title Deploys multiple Shiny apps
-#'
-#' @description This package helps in mass deployemnt of shiny apps to Rstudio connect or Shiny Server.
->>>>>>> ee6ce5d9ab8dceb8b9eba448a19b9ee764d4046c
 #'
 #' @param filedir
 #'
 #' @return NULL
 #'
-<<<<<<< HEAD
 #' @examples  #rsconctdply("~/rconnect_dir.json")
-=======
-#' @examples  rsconctdply("~/rconnect_dir.json")
->>>>>>> ee6ce5d9ab8dceb8b9eba448a19b9ee764d4046c
 #'
 #' @export rsconctdply
 #'
