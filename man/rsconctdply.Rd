@@ -8,7 +8,7 @@ rsconctdply(filedir)
 }
 \arguments{
 \item{rsconctdply}{Name of the function}
-\item{filedir}{directory path for json file}
+\item{filedir}{Web or local directory path for json file}
 
 }
 \description{

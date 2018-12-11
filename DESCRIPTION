@@ -11,7 +11,7 @@ Imports:
     rsconnect,
     dplyr
 Description: Provides a tool for mass deployment of shiny apps to 'RStudio Connect' or 'Shiny Server'. Multiple user accounts and servers can be configured for deployment.
-License: GPL-2
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
